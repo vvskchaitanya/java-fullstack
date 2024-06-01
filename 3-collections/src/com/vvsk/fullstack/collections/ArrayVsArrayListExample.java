@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * Program to demostrate the difference in usage of Array and ArrayList
  */
-public class ArrayVsArrayListExample2 {
+public class ArrayVsArrayListExample {
 
 	public static void main(String[] args) {
 		

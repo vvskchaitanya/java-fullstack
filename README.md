@@ -1,8 +1,6 @@
 ## 1. Java Basics
 
-Getting Started with Java Basics
-
-- Understand the basic syntax, variable declarations, datatypes, operators and control flow statements
+**Understand the basic syntax, variable declarations, datatypes, operators and control flow statements**
 
 - `Day 1` - First Java Program / Structure of Java Program
 - `Day 2` - Datatypes -> boolean, char, int, float, long, double
@@ -14,7 +12,7 @@ Getting Started with Java Basics
 
 ## 2. Java Concepts
 
-- Understand Object Oriented Programming Principles
+**Understand Object Oriented Programming Concepts**
 
 - `Classification` - Classifying real world objects into classes
 - `Encapsulation`  - Data Hiding of class and access modifiers
@@ -25,11 +23,15 @@ Getting Started with Java Basics
 
 ## Java Collections
 
-- Understand Java Collections Framework
+**Understand Java Collections Framework**
 
 - `ArrayList` - Create ArrayList, Add items, Remove items, Iterate using forEach and Iterator
 - `LinkedList` - Create LinkedList, Add items, Remove items, Iterate using forEach, Iterator, ListIterator
-- 
+- `LinkedHashSet` - Create HashSet, Add items, Remove items, Iterate using forEach, Iterator
+- `TreeSet` - Create TreeSet, Add items, Remove items, Iterate using forEach, Iterator
+- `Queue` - Create Queue, Add and Access Items, Forward and Backward Traversal
+- `Deque` - Create Double Ended Queue, Add and Access Items, Forward and Backward Traversal
+
 
 
 
