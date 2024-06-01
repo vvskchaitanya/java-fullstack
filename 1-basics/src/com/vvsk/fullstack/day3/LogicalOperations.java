@@ -3,8 +3,8 @@ package com.vvsk.fullstack.day3;
 /**
  * Java Prpgram to demostrate the use of Logical operators
  * Logical AND =  &&
- * Bitwise OR  = ||
- * Bitwise NOT = !
+ * Logical OR  = ||
+ * Logical NOT = !
  */
 public class LogicalOperations {
 

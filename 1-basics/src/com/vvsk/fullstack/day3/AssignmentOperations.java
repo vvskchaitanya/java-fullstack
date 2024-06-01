@@ -1,5 +1,8 @@
 package com.vvsk.fullstack.day3;
 
+/**
+ * Java Program to demonstrate assignment operators
+ */
 public class AssignmentOperations {
 
     public static void main(String args[]) {
