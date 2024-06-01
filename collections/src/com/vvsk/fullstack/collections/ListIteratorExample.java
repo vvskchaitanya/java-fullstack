@@ -1,4 +1,4 @@
-package com.fullstack.vvsk.collections;
+package com.vvsk.fullstack.collections;
 
 import java.util.ArrayList;
 import java.util.Iterator;
