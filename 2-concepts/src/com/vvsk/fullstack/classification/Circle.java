@@ -1,4 +1,4 @@
-package com.fullstack.day8;
+package com.vvsk.fullstack.classification;
 
 public class Circle {
 	// fields

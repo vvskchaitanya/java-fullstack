@@ -1,6 +1,4 @@
-package com.fullstack.day8;
-
-import java.util.Scanner;
+package com.vvsk.fullstack.classification;
 
 public class CircleExample {
 
