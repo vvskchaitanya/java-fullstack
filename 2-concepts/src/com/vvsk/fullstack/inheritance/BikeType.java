@@ -1,4 +1,4 @@
-package com.vvsk.fullstack.polymorphism;
+package com.vvsk.fullstack.inheritance;
 
 public enum BikeType {
 	

@@ -1,4 +1,4 @@
-package com.vvsk.fullstack.polymorphism;
+package com.vvsk.fullstack.inheritance;
 
 /**
  * This is base class (parent class) 

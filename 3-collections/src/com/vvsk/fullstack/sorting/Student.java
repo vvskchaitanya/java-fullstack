@@ -1,4 +1,4 @@
-package com.vvsk.fullstack.collections.sorting;
+package com.vvsk.fullstack.sorting;
 
 public class Student implements Comparable<Student>{
 	

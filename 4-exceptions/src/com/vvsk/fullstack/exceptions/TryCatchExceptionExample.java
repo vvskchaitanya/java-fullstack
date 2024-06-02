@@ -1,4 +1,4 @@
-package com.vvsk.fullstack.collections;
+package com.vvsk.fullstack.exceptions;
 
 public class TryCatchExceptionExample {
 

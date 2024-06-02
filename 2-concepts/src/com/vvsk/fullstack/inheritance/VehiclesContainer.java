@@ -1,4 +1,4 @@
-package com.fullstack.oops.polymorphism;
+package com.vvsk.fullstack.inheritance;
 
 import java.util.Scanner;
 

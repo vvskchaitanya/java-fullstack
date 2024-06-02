@@ -1,4 +1,4 @@
-package com.vvsk.fullstack.collections.sorting;
+package com.vvsk.fullstack.sorting;
 
 import java.util.ArrayList;
 import java.util.Collections;
