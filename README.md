@@ -21,9 +21,9 @@
 - `Abstraction`    - Functionality Abstraction using abstract class and interface
 
 
-## Java Collections
+## 3. Java Collections
 
-**Understand Java Collections Framework**
+**Understand Java Collections Framework - List, Set, Map, Streams API**
 
 - `ArrayList` - Create ArrayList, Add items, Remove items, Iterate using forEach and Iterator
 - `LinkedList` - Create LinkedList, Add items, Remove items, Iterate using forEach, Iterator, ListIterator
@@ -31,7 +31,13 @@
 - `TreeSet` - Create TreeSet, Add items, Remove items, Iterate using forEach, Iterator
 - `Queue` - Create Queue, Add and Access Items, Forward and Backward Traversal
 - `Deque` - Create Double Ended Queue, Add and Access Items, Forward and Backward Traversal
+- `Sorting Collection` - Comparable vs Comparator
+- `Streams API` - Streams API to perform filter,sorting and mapping operations on Collections
 
+## 4. Exception Handling
 
+**Understand Exception Handling - Built-in Exceptions and Custom Exceptions**
 
+- `Exception` - Try and Catch ArithemeticException, IndexOutOfBoundException, NullPointerExceptions
+- `UserDefinedException` - Create / Throw / Catch UserDefinedExceptions
 
