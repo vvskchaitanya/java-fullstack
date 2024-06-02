@@ -42,7 +42,7 @@ public class TakeUserInput {
 		
 		System.out.println("Welcome "+name);
 		
-		myScanner.close();
+		scanner.close();
 
 	}
 

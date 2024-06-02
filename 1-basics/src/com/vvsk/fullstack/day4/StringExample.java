@@ -1,4 +1,4 @@
-package com.vvvsk.fullstack.day4;
+package com.vvsk.fullstack.day4;
 
 /**
  * java program to demonstrate the String DataType

@@ -1,4 +1,4 @@
-package com.fullstack.day7;
+package com.vvsk.fullstack.day7;
 
 /**
  * Java Program to demonstrate continue statement
