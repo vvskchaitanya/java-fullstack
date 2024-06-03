@@ -1,6 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "*/src/**/"
+        "1-basics/src/","2-concepts/src/","3-collections/src/","4-exceptions/src/"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
