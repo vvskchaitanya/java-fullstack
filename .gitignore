@@ -2,3 +2,5 @@ bin/*.class
 /bin/
 .classpath
 .project
+
+example.txt

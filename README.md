@@ -41,3 +41,10 @@
 - `Exception` - Try and Catch ArithemeticException, IndexOutOfBoundException, NullPointerExceptions
 - `UserDefinedException` - Create / Throw / Catch UserDefinedExceptions
 
+## 5. Files IO
+
+**Understand File Handling - Using File methods and Handle File IO Operations**
+
+- `File` - Create New File using java.io.File
+- `FileWriter` - Write File using FileWriter
+- `FileReader` - Read File using FileReader
