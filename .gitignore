@@ -4,3 +4,5 @@ bin/*.class
 .project
 
 example.txt
+replacesource.txt
+replacedestination.txt
