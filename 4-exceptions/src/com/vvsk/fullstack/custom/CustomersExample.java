@@ -26,8 +26,6 @@ public class CustomersExample {
 			
 			Customer customer1 = search(101,customers);
 			Customer customer2 = search(102,customers);
-			
-			Customer customer3 = search(103,customers);
 
 			
 			System.out.println("Customer Mobile Number : "+customer1.getMobile());

@@ -20,6 +20,8 @@ public class IOExceptionExample {
 			Scanner sc = new Scanner(file);
 			
 			System.out.println("Hurray!!, I have found the file "+fileName);
+
+			sc.close();
 			
 		} catch (IOException e) {
 			System.out.println("Cannot find file "+fileName);
