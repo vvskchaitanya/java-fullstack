@@ -48,3 +48,12 @@
 - `File` - Create New File using java.io.File
 - `FileWriter` - Write File using FileWriter
 - `FileReader` - Read File using FileReader
+
+
+## 6. MultiThreading
+
+**Understand MultiThreading - Creating and Running multiple threads for same process**
+
+- `Thread` - Create New Thread by extending Thread class
+- `Runnable` - Create Threads by implementing Runnable Interface
+- `CopyFileThread` - Copy the files from source folder to destination folder using Threads and Files
