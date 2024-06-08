@@ -6,3 +6,6 @@ bin/*.class
 example.txt
 replacesource.txt
 replacedestination.txt
+
+dir1/
+dir2/
